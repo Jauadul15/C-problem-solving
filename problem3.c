@@ -1,3 +1,5 @@
+//count even,odd,positive,negative numbers 
+
 #include<stdio.h>
 
 int main(){
