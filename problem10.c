@@ -1,3 +1,8 @@
+// Problem 10: Two digits
+// Problem: Given a two-digit number, check if the digits are divisible by each other. If true, print "YES", otherwise print "NO".  
+// Input: 12    Output: YES
+// Input: 21    Output: YES 
+// Input: 10    Output: NO
 #include<stdio.h>
 
 int main(){
