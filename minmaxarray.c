@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<limits.h>
 int main(){
     int n;
     scanf("%d",&n);
@@ -26,7 +25,4 @@ int main(){
     }
     printf("Max: %d\n",max);
     printf("Min: %d\n",min);    
-    printf("Difference: %d\n",max-min);
-    printf("Sum: %d\n",max+min);    
-    printf("Average: %.2f\n",(float)(max+min)/2);
 }
