@@ -22,12 +22,7 @@ int main(){
         if (i==j)
         {
             printf("%d ",j);
-        }
-        
-        
+        }   
     }
-    
-
-    
     return 0;
 }

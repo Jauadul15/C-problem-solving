@@ -20,8 +20,7 @@ int main(){
             printf("%d",digit);
             k =k/10;
         }
-        printf("\n");
-        
+        printf("\n");     
         
     }
     return 0;
