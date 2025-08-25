@@ -12,7 +12,6 @@ int main(){
         if(a[i]<=10){
             printf("A[%d] = %d\n",i,a[i]);
         }
-    }
-    
+    }   
     return 0;
 }
